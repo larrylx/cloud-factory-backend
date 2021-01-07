@@ -1,0 +1,3 @@
+sqlalchemy~=1.3.20
+sqlathanor~=0.7.0
+flask~=1.1.2
