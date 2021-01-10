@@ -1,0 +1,10 @@
+# Ignoring git and cache folders
+.git
+.cache
+.gitignore
+LICENSE
+
+# Pycharm
+.DS_Store
+.idea
+__pycache__/
